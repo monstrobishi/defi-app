@@ -37,3 +37,6 @@ Electron config is in [electron-app/index.ts](electron-app/index.ts)
 Copyright 2020 DeFi Blockchain Foundation.
 
 QR scanner shutter audio `webapp/src/assets/audio/shutter.mp3` is licensed by [Soundsnap](https://www.soundsnap.com). Commercial redistribution of the audio is prohibited. For full Soundsnap license, visit [https://www.soundsnap.com/licence](https://www.soundsnap.com/licence).
+
+
+Test
